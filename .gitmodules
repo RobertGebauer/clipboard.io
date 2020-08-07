@@ -1,0 +1,9 @@
+[submodule "clipscape.io-backend"]
+	path = clipscape.io-backend
+	url = https://github.com/RobertGebauer/clipscape.io-backend.git
+[submodule "clipscape.io-webapp"]
+	path = clipscape.io-webapp
+	url = https://github.com/RobertGebauer/clipscape.io-webapp.git
+[submodule "clipscape.io-cbdaemon"]
+	path = clipscape.io-cbdaemon
+	url = https://github.com/RobertGebauer/clipscape.io-cbdaemon.git
