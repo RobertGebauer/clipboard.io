@@ -1,1 +1,1 @@
-# clipboard.io
+# Clipscape.io
